@@ -1,0 +1,176 @@
+Unnamed War Game (Replace name later)
+
+How to Play
+
+Part 1: Overview
+Step 1, Select a mission by randomizing or agreement amongst players
+Step 2, Set up board according to the mission
+Step 3, Select factions
+Step 4, Select 5 units from your factions roster. This must include atleast one hero and atleast one squad.
+Step 5, Determine through randomization who will place their Units first (Suggestion: Roll 2D6 and who ever 
+        rolls the highest places first)
+Step 6, Take turns placing your Units one at a time in the designated deployment area
+Step 5, Play up to 5 rounds until one player completes the primary objective
+Step 6, who ever has completed the objective gains extra points (amount to be determined)
+Step 7, total points earned from the Primary Objective and Motivations
+Step 8, Who ever has the most points wins
+
+Part 2: Rounds
+Step 1, If it is the first round, whoever placed their first unit second goes first
+Step 2, If it is not the first round, randomize who will go first (Suggestion: Roll 2D6 and who ever rolls 
+        the highest places first)
+Step 3, Alternate taking turns
+Step 4, Each player may place 1 unit that has been removed back on the board. All models in this unit must 
+        be adjacent to the edge of the board in their deployment zone.
+Step 4, Each player scores off the Primary Objective and Motivations
+
+Part 3: Turns
+Step 1, select a unit to activate
+Step 2, Use as many of the General and Attack actions as you desire
+
+Part 4: Attacks
+Step 0, Melee Attack Actions can only target units within 1 inch.
+Step 1, Compare the Attack Actions Attack stat with the defending Unit's Defensive stat. Use Dodge for 
+        Ranged Attacks and Block for Melee attacks. Roll a D6 and determine the result as listed bellow
+  1A, If the Attack is equal to double the Defensive stat then a roll of 2 or greater is a successful attack.
+  1B, If the Attack is greater then the Defensive stat but less then double the defensive stat then a roll of 
+      3 or greater is a successful attack
+  1C, If the Attack is equal to the Defensive stat then a roll of 4 or greater is successful Attack
+  1D, If the Attack is less then the Defensive stat but greater then half the Defensive stat (Round up) then a 
+      roll of 5 or greater is a successful attack
+  1E, If the Attack is equal to or less then half the Defensive stat (Round up) then a roll of 6 or greater is 
+      a successful attack
+  1D, If none of the attacks from this action are successful then exit the Attack step
+Step 2, If the attack is successful then your opponent rolls a D6 and compares it to their Armor stat after 
+        subtracting any Piercing from the attack. If the Defender rolls equal to or Higher then the result, 
+        exit the attack step
+Step 3, Apply damage to the unit according to the damage of the attack
+  3A, If the unit contains more then one model, the defender chooses which model takes the damage
+  3B, If a model already has 1 or more damage on it, but not more damage then it's health, the defender must 
+      choose that model
+  3C, if a model has damage on it equal to or greater then the Health stat of the model, that model must be 
+      removed at the end of the attack action.
+  3D, if an Attack Action has multiple attacks, apply damage one attack at a time.
+  3E, Damage from any attack may only hit one model, even if that damage exceeds the health of the model.
+
+Part 5: Ratkins
+  4A: Units
+
+    Name: Ratkin Sword Master
+    Type: Hero  | Base: 32mm  | Models in Unit: 1  
+    Attack Actions: 2  | General Actions: 2  | Reactions: 2
+    Health: 5 | Dodge: 3 | Block: 4  | Armor: 3+
+    
+      Actions:
+      Swing of the Blade (Attack Action)
+        | Melee Attack: 4  | Damage: 2  | Piercing: -1                                         |
+      Repost (Reaction)
+        |  If the opponent rolls a 1 on thier Melee Attack you may activate this reaction. If  | 
+        |  this unit took the Hold For Charge General Action this round you may also activate  |
+        |  this reaction if the opponent rolls a 2 on their Melee Attack.                      |
+        |  After your opponent finishes their Attack Action, before any models are removed,    |
+        |  This unit may use an Attack Action for free as though it was their turn             |
+      Move (General Action)
+        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
+        |  of the originally selected model                                                    |
+      Hold for Charge (General Action)
+        |  This Unit increases it's Block by 2 until the end of the round. This unit cannot    |
+        |  use the Prepare to Dodge action. This action may only be used once per Turn.        |
+      Prepare to Dodge (General Action)
+        |  This Unit increases it's Dodge by 2 until the end of the round. This Unit cannot    |
+        |  use the Hold for Charge action. This action may only be used once per Turn.         |
+      Attack Again (General Action)
+        |  This Unit may use an attack action. The first time this unit uses the Attack Again  |
+        |  action it reduces the Melee Attack or Ranged Attack of the action by 1. Subsequent  |
+        |  uses reduces the Melee attack by 1+ the number of times this unit has used the      |
+        |  Attack Again action this turn.                                                      |
+
+    Name: Ratkin Master Archer
+    Type: Hero  | Base: 32mm  | Models in Unit: 1  
+    Attack Actions: 2  | General Actions: 2  | Reactions: 1
+    Health: 5 | Dodge: 4 | Block: 3  | Armor: 3+
+    
+      Actions:
+      Sniper Strike (Attack Action)
+        | Ranged Attack: 4  | Damage: 2  | Piercing: -1                                        |
+      Break Contact (Reaction)
+        |  When an opponent declares they are using an Attack Action that has no Ranged        |
+        |  Attack you may activate this Reaction. Roll a D6, on a 4+ the opponent cannot use   |
+        |  their Attack Action. This unit takes a Move Action for free as though it was their  |
+        |  turn.                                                                               |
+      Move (General Action)
+        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
+        |  of the originally selected model                                                    |
+      Hold for Charge (General Action)
+        |  This Unit increases it's Block by 2 until the end of the round. This unit cannot    |
+        |  use the Prepare to Dodge action. This action may only be used once per Turn.        |
+      Prepare to Dodge (General Action)
+        |  This Unit increases it's Dodge by 2 until the end of the round. This Unit cannot    |
+        |  use the Hold for Charge action. This action may only be used once per Turn.         |
+      Attack Again (General Action)
+        |  This Unit may use an attack action. The first time this unit uses the Attack Again  |
+        |  action it reduces the Melee Attack or Ranged Attack of the action by 1. Subsequent  |
+        |  uses reduces the Melee attack by 1+ the number of times this unit has used the      |
+        |  Attack Again action this turn.                                                      |
+
+    Name: Ratkin Clubbers 
+    Type: Squad  | Base: 32mm  | Models in Unit: 3  
+    Attack Actions: 1  | General Actions: 2  | Reactions: 1
+    Health: 2 | Dodge: 3 | Block: 3  | Armor: 4+
+    
+      Actions:
+      Club Strike (Attack Action)
+        | Melee Attack: 3  | Damage: 2  |                                                      |
+        |  This attack action gives you a number of attacks equal to the number of models in   |
+        |  this unit.                                                                          |
+      Threatening Approach (Reaction)
+        |  If an opposing unit ends a Movement within 2 inches of this Unit you may activate   |
+        |  this reacton. Take a Move action for free as though it was your turn. You must end  |
+        |  this Move with an opposing unit within one inch of this Unit.                       |
+      Move (General Action)
+        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
+        |  of the originally selected model                                                    |
+      Hold for Charge (General Action)
+        |  This Unit increases it's Block by 2 until the end of the round. This unit cannot    |
+        |  use the Prepare to Dodge action. This action may only be used once per Turn.        |
+      Prepare to Dodge (General Action)
+        |  This Unit increases it's Dodge by 2 until the end of the round. This Unit cannot    |
+        |  use the Hold for Charge action. This action may only be used once per Turn.         |
+      Attack Again (General Action)
+        |  This Unit may use an attack action. The first time this unit uses the Attack Again  |
+        |  action it reduces the Melee Attack or Ranged Attack of the action by 1. Subsequent  |
+        |  uses reduces the Melee attack by 1+ the number of times this unit has used the      |
+        |  Attack Again action this turn.                                                      |
+
+    Name: Ratkin Archer Line
+    Type: Squad  | Base: 32mm  | Models in Unit: 3  
+    Attack Actions: 1  | General Actions: 2  | Reactions: 1
+    Health: 2 | Dodge: 3 | Block: 3  | Armor: 4+
+    
+      Actions:
+      Crossbow Strike (Attack Action)
+        | Ranged Attack: 3  | Damage: 2  |                                                     |
+        |  This attack action gives you a number of attacks equal to the number of models      |
+        |  remaining in this unit.                                                             |
+      Speedy Retreat (Reaction)
+        |  If an opposing unit ends a Movement within 2 inches of this Unit you may activate   |
+        |  this reacton. Take a Move action for free as though it was your turn. You must end  |
+        |  this Move as far away from all opposing models as possible.                         |
+      Move (General Action)
+        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
+        |  of the originally selected model                                                    |
+      Hold for Charge (General Action)
+        |  This Unit increases it's Block by 2 until the end of the round. This unit cannot    |
+        |  use the Prepare to Dodge action. This action may only be used once per Turn.        |
+      Prepare to Dodge (General Action)
+        |  This Unit increases it's Dodge by 2 until the end of the round. This Unit cannot    |
+        |  use the Hold for Charge action. This action may only be used once per Turn.         |
+      Attack Again (General Action)
+        |  This Unit may use an attack action. The first time this unit uses the Attack Again  |
+        |  action it reduces the Melee Attack or Ranged Attack of the action by 1. Subsequent  |
+        |  uses reduces the Melee attack by 1+ the number of times this unit has used the      |
+        |  Attack Again action this turn.                                                      |
