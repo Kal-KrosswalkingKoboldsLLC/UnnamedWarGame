@@ -26,7 +26,7 @@ Step 4, Each player scores off the Primary Objective and Motivations
 
 Part 3: Turns
 Step 1, select a unit to activate
-Step 2, Use as many of the General and Attack actions as you desire
+Step 3, Use as many of the General and Attack actions as you desire
 
 Part 4: Attacks
 Step 0, Melee Attack Actions can only target units within 1 inch.
@@ -70,8 +70,8 @@ Part 5: Ratkins
         |  this reaction if the opponent rolls a 2 on their Melee Attack.                      |
         |  After your opponent finishes their Attack Action, before any models are removed,    |
         |  This unit may use an Attack Action for free as though it was their turn             |
-      Move (General Action)
-        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+      Move 5 (General Action)
+        |  Select one model in this unit and move them up to 5 inches. If this unit contains   |
         |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
         |  of the originally selected model                                                    |
       Hold for Charge (General Action)
@@ -88,7 +88,7 @@ Part 5: Ratkins
 
     Name: Ratkin Master Archer
     Type: Hero  | Base: 32mm  | Models in Unit: 1  
-    Attack Actions: 2  | General Actions: 2  | Reactions: 1
+    Attack Actions: 4  | General Actions: 1  | Reactions: 1
     Health: 5 | Dodge: 4 | Block: 3  | Armor: 3+
     
       Actions:
@@ -99,7 +99,7 @@ Part 5: Ratkins
         |  Attack you may activate this Reaction. Roll a D6, on a 4+ the opponent cannot use   |
         |  their Attack Action. This unit takes a Move Action for free as though it was their  |
         |  turn.                                                                               |
-      Move (General Action)
+      Move 2 (General Action)
         |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
         |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
         |  of the originally selected model                                                    |
@@ -127,10 +127,10 @@ Part 5: Ratkins
         |  this unit.                                                                          |
       Threatening Approach (Reaction)
         |  If an opposing unit ends a Movement within 2 inches of this Unit you may activate   |
-        |  this reacton. Take a Move action for free as though it was your turn. You must end  |
-        |  this Move with an opposing unit within one inch of this Unit.                       |
-      Move (General Action)
-        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  this reacton. Take a Move 2 action for free as though it was your turn. You must    |
+        |  end this Move with an opposing unit within one inch of this Unit.                   |
+      Move 4 (General Action)
+        |  Select one model in this unit and move them up to 4 inches. If this unit contains   |
         |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
         |  of the originally selected model                                                    |
       Hold for Charge (General Action)
@@ -147,7 +147,7 @@ Part 5: Ratkins
 
     Name: Ratkin Archer Line
     Type: Squad  | Base: 32mm  | Models in Unit: 3  
-    Attack Actions: 1  | General Actions: 2  | Reactions: 1
+    Attack Actions: 2  | General Actions: 1  | Reactions: 1
     Health: 2 | Dodge: 3 | Block: 3  | Armor: 4+
     
       Actions:
@@ -156,11 +156,11 @@ Part 5: Ratkins
         |  This attack action gives you a number of attacks equal to the number of models      |
         |  remaining in this unit.                                                             |
       Speedy Retreat (Reaction)
-        |  If an opposing unit ends a Movement within 2 inches of this Unit you may activate   |
-        |  this reacton. Take a Move action for free as though it was your turn. You must end  |
-        |  this Move as far away from all opposing models as possible.                         |
-      Move (General Action)
-        |  Select one model in this unit and move them up to 2 inches. If this unit contains   |
+        |  If an opposing unit ends a Movement within 4 inches of this Unit you may activate   |
+        |  this reacton. Take a Hold for Charge Action for free as though it was your turn.    |
+        |  You must end this Move as far away from all opposing models as possible.            |
+      Move 4 (General Action)
+        |  Select one model in this unit and move them up to 4 inches. If this unit contains   |
         |  more then 1 model, pick up the remaining models and place them wholy within 1 inch  |
         |  of the originally selected model                                                    |
       Hold for Charge (General Action)
